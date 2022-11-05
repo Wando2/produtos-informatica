@@ -1,16 +1,20 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
+  "eletrodomesticos": [
+    { "id": 1, "Nome": "Micro-ondas", "Preço": "499,90" },
+    { "id": 2, "Nome": "Airfryer", "Preço": "399,90" },
+    { "id": 3, "Nome": "Maquina de Lavar", "Preço": "1499,90" },
+    { "id": 4, "Nome": "Geladeira", "Preço": "2990,90" }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "desktop": [
+    { "id": 1, "Nome": "Pc Gamer", "Preço": "3099,90" },
+    { "id": 2, "Nome": "Mini-computador", "Preço": "1499,90" },
+    { "id": 3, "Nome": "Computador de escritório", "Preço": "1799,90" },
+    { "id": 4, "Nome": "All-in-one", "Preço": "1999,90" }
+  ],
+  "perifericos": [ 
+      { "id": 1, "Nome": "Pen Drive", "Preço": "24,90" },
+      { "id": 2, "Nome": "Caixa de Som", "Preço": "89,90" },
+      { "id": 3, "Nome": "Mousepad", "Preço": "49,90" },
+      { "id": 4, "Nome": "Headset Gamer", "Preço": "199,90" }
   ]
 }
